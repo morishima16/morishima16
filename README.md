@@ -1,8 +1,10 @@
 ### 👋 Hey there, **I’m Jyotiraj Sarma**, building and creating as **@morishima16!**
 
+ 
 ### 🚀 Computer Applications Student | Future Full-Stack Developer | AI Enthusiast
 
-👨‍💻 A little about me
+
+### 👨‍💻 A little about me
 
 * 🌱 I’m currently studying **Computer Applications** and working hard to become a **Full-Stack Developer**.
 * 👀 I absolutely love diving into **new projects** and figuring out how things work behind the scenes.
