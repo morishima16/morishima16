@@ -1,4 +1,4 @@
-👋 Hey there, I’m Jyotiraj Sarma, building and creating as @morishima16!
+👋 Hey there, **I’m Jyotiraj Sarma**, building and creating as **@morishima16!**
 
 🚀 Computer Applications Student | Future Full-Stack Developer | AI Enthusiast
 
