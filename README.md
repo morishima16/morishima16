@@ -18,7 +18,7 @@
 **My Frontend Playground:**
 
 **What's next on the roadmap?**
-Right now, my main focus is getting really comfortable with **React** and bringing ideas to life on the frontend. But I'm not stopping there! I'm gearing up to tackle backend development and regularly practicing **DSA (Data Structures and Algorithms)** along the way to make sure my problem-solving skills stay sharp.
+Right now, my main focus is getting really comfortable with **React** and bringing ideas to life on the frontend. But I'm not stopping there! I'm gearing up to tackle **backend development** and regularly practicing **DSA (Data Structures and Algorithms)** along the way to make sure my problem-solving skills stay sharp.
 
 I'm super excited to start uploading the projects I've been building on this journey, so keep an eye out for those! 📂✨
 
