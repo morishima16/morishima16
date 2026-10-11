@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Morishima16 # my insta handle
-- 😄 Pronouns: he/him
+
 - ⚡ Fun fact: I love to draw 
 
 <!---
